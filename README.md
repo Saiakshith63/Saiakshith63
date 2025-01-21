@@ -28,14 +28,14 @@ I’m proficient with these technologies:
 
 ## 📊 GitHub Stats
 
-![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&row=1&column=3)
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
 
 ---
 
@@ -43,7 +43,7 @@ I’m proficient with these technologies:
 
 Here’s how active I’ve been on GitHub:
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 
 ---
 
