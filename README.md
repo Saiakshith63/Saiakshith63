@@ -35,7 +35,7 @@ I’m proficient with these technologies:
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Saiakshith63&theme=dark&row=1&column=3)
 
 ---
 
@@ -43,7 +43,7 @@ I’m proficient with these technologies:
 
 Here’s how active I’ve been on GitHub:
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Saiakshith63&theme=dark)
 
 ---
 
@@ -55,7 +55,7 @@ Here are some of my featured projects:
 2. **[Project 2 Name](Link-to-Project-Repo)** - A description with a focus on its value, impact, or unique feature.
 3. **[Project 3 Name](Link-to-Project-Repo)** - Key achievements or challenges overcome during the development of this project.
 
-Check out all my projects on [GitHub](https://github.com/your-username).
+Check out all my projects on [GitHub](https://github.com/Saiakshith63).
 
 ---
 
