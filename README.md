@@ -4,7 +4,7 @@
   🚀 Passionate about solving real-world problems with Machine Learning and AI
 </p>
 
----
+
 
 ## 🖼️ About Me  
 - 🎓 **Education**: Bachelor of Technology in Computer Science & Engineering (Data Science)  
