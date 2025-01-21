@@ -1,95 +1,73 @@
-# 👋 Hi, I'm Captain Giggles!
+# Hi there! 👋
 
-## About Me
-I'm a passionate and driven **Software Developer** with a focus on **AI, Machine Learning, Data Science**, and **Web Development**. I’ve completed a **B.Tech in Computer Science** and specialize in **Python**, **NLP**, and **Web Technologies**. I’m exploring **Large Language Models (LLMs)** and **Deep Learning** to stay ahead in AI. 
+## 🚀 About Me
 
-I believe in solving real-world problems with creative solutions and always stay curious to learn and grow.
+I'm **Mothepati Saiakshith**, a passionate tech enthusiast with a B.Tech in Computer Science and Engineering (Data Science) from **CMR Institute of Technology** (CGPA: 8.59). I love solving challenging problems, building innovative solutions, and exploring the ever-evolving world of technology.
 
----
+- 📫 Contact me at: akshithsai677@gmail.com | +91-8688590378
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/saiakshithmothepati)
+- 💻 Explore my work on [GitHub](https://github.com/saiakshithcx)
 
-## 🔧 Tech Stack
+## 🛠 Technical Skills
 
-I’m proficient with these technologies:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=flat&logo=pandas&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=flat&logo=tensorflow&logoColor=white)
 
-**Other Tools I Work With**:
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Programming Languages
+- **Python**
 
----
+### Libraries and Frameworks
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Web Development**: HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB
 
-## 📊 GitHub Stats
+### Specializations
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Large Language Models (LLMs)
+- Generative AI
 
-![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
+### Other Tools
+- Databases: MySQL
+- Cloud Platforms: AWS
 
----
+## 💼 Work Experience
 
-## 🏆 GitHub Trophies
+### Web Developer Intern  
+**ARThink AI**, Hyderabad  
+_**October 2023 - March 2024**_
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
+- Developed front-end applications using HTML, CSS, JavaScript, and React.js, boosting user experience by **80%**.
+- Built backend systems with Node.js, Express.js, and MongoDB, enhancing data handling and performance by **75%**.
+- Designed a **QR Code Generation System** for GMR Airports, achieving **90% efficiency** in client interactions.
+- Engineered a **boarding pass validation feature**, improving data verification by **85%**.
+- Conducted thorough testing and API endpoint management, improving functionality and performance by **80%**.
 
----
+## 🔬 Projects
 
-## 📅 GitHub Contributions
+### Uno Morse Converise
+- **Tools**: Machine Learning, gTTS, Morse Code, CSV File Handling, Git
+- **GitHub Repo**: [Uno Morse Code](https://github.com/saiakshithcx/Uno-Morse-Code)
+- Converted Morse code to audio signals with **85% accuracy**.
+- Implemented a user input conversion process with K-means clustering (**80% success rate**).
+- Enhanced the system with **Google Text-to-Speech (gTTS)** for accessibility and usability.
+- Achieved a workflow efficiency of **90%**, significantly improving performance.
 
-Here’s how active I’ve been on GitHub:
+### Exploratory Data Analysis on Online Marketing
+- **Tools**: Python, Pandas, Matplotlib, Seaborn, Git
+- **GitHub Repo**: [EDA Project](https://github.com/saiakshithcx/EDA-PROJECT)
+- Developed a comprehensive data analysis system to explore marketing trends, improving customer experience by **75%**.
+- Designed visualizations using Matplotlib and Seaborn with **85% efficiency**.
+- Provided actionable marketing insights, improving outcomes by **80%**.
+- Streamlined data processing with Python and Pandas, achieving **78% efficiency**.
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+## 🎓 Certifications
 
----
-
-## 💻 Projects
-
-Here are some of my featured projects:
-
-1. **[Project 1 Name](Link-to-Project-Repo)** - A brief description of what this project is about and the technologies used.
-2. **[Project 2 Name](Link-to-Project-Repo)** - A description with a focus on its value, impact, or unique feature.
-3. **[Project 3 Name](Link-to-Project-Repo)** - Key achievements or challenges overcome during the development of this project.
-
-Check out all my projects on [GitHub](https://github.com/your-username).
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out:
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
----
-
-## 📝 Blog & Articles
-
-Check out my thoughts and insights on:
-
-- [Blog Article 1](Link-to-Article)
-- [Blog Article 2](Link-to-Article)
-- [Blog Article 3](Link-to-Article)
+- **Google Data Analytics Certification**: Focused on Data Analysis, Visualization, and Decision-making.
+- **BCGX Data Visualization Certification**: Expertise in creating effective visual representations of data.
+- **BCGX Data Science Certification**: Comprehensive understanding of data science concepts and applications.
 
 ---
 
-## 🌱 Fun Fact
-
-Did you know? I love to combine **coding** with **creativity**. I’m always excited to explore new technologies and create projects that push boundaries. Let's connect and learn together!
-
----
-
-## ✨ Inspirational Quote
-
-> "The best way to predict the future is to invent it." – Alan Kay
-
----
-
-## 🎯 Currently Learning
-
-- **Large Language Models (LLMs)**
-- **Advanced Deep Learning Techniques**
-- **Natural Language Processing (NLP)**
+Feel free to explore my projects and connect with me for collaborations or discussions! Let's build something amazing together. 😊
