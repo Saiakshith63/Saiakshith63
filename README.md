@@ -1,78 +1,99 @@
-<h1 align="center">👋 Hi there, I'm Captain Giggles (Mothepati Saiakshith)!</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70094&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Scientist+%7C+ML+Enthusiast;Passionate+about+solving+real-world+problems" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Captain Giggles!
+
+## About Me
+I'm a passionate and driven **Software Developer** with a focus on **AI, Machine Learning, Data Science**, and **Web Development**. I’ve completed a **B.Tech in Computer Science** and specialize in **Python**, **NLP**, and **Web Technologies**. I’m exploring **Large Language Models (LLMs)** and **Deep Learning** to stay ahead in AI. 
+
+I believe in solving real-world problems with creative solutions and always stay curious to learn and grow.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0066FF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP-6600CC?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="DSA" />
-</p>
+## 🔧 Tech Stack
+
+I’m proficient with these technologies:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=flat&logo=pandas&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=flat&logo=tensorflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Other Tools I Work With**:
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🔭 About Me  
-- 🧑‍🎓 **Education**: B.Tech in CSE (Data Science)  
-- 💡 **Interests**: NLP, LLMs, Computer Vision, AI  
-- 🎯 **2025 Goal**: Land a role as an AI Engineer, ML Engineer, or Data Scientist  
-- 📖 **Currently Learning**: Advanced DSA & Large Language Models  
+## 📊 GitHub Stats
+
+![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-## 🛠️ My Toolbox  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikit-learn,seaborn,html,css,js,react,nodejs,mongodb,git" alt="Skills">
-</p>
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&row=1&column=3)
 
 ---
 
-## 🌟 Featured Projects  
-<p align="center">
-  <a href="https://github.com/your-username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/your-username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=radical" alt="Project 2">
-  </a>
-</p>
+## 📅 GitHub Contributions
+
+Here’s how active I’ve been on GitHub:
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainGiggles&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=CaptainGiggles&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</p>
+## 💻 Projects
+
+Here are some of my featured projects:
+
+1. **[Project 1 Name](Link-to-Project-Repo)** - A brief description of what this project is about and the technologies used.
+2. **[Project 2 Name](Link-to-Project-Repo)** - A description with a focus on its value, impact, or unique feature.
+3. **[Project 3 Name](Link-to-Project-Repo)** - Key achievements or challenges overcome during the development of this project.
+
+Check out all my projects on [GitHub](https://github.com/your-username).
 
 ---
 
-## 📂 Repositories  
-<p align="center">
-  <a href="https://github.com/CaptainGiggles?tab=repositories">
-    <img src="https://img.shields.io/badge/-View%20All%20Repositories-black?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories">
-  </a>
-</p>
+## 📬 Contact Me
+
+Feel free to reach out:
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Website: [your-website.com](https://your-website.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+## 📝 Blog & Articles
+
+Check out my thoughts and insights on:
+
+- [Blog Article 1](Link-to-Article)
+- [Blog Article 2](Link-to-Article)
+- [Blog Article 3](Link-to-Article)
 
 ---
 
-<h3 align="center">✨ _"Turning Passion Into Innovation."_ ✨</h3>
+## 🌱 Fun Fact
+
+Did you know? I love to combine **coding** with **creativity**. I’m always excited to explore new technologies and create projects that push boundaries. Let's connect and learn together!
+
+---
+
+## ✨ Inspirational Quote
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+## 🎯 Currently Learning
+
+- **Large Language Models (LLMs)**
+- **Advanced Deep Learning Techniques**
+- **Natural Language Processing (NLP)**
