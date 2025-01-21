@@ -16,9 +16,6 @@ I’m proficient with these technologies:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=flat&logo=pandas&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=flat&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Other Tools I Work With**:
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -28,14 +25,13 @@ I’m proficient with these technologies:
 
 ## 📊 GitHub Stats
 
-![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiakshith63&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiakshith63&layout=compact&theme=dark)
+![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Saiakshith63&theme=dark&row=1&column=3)
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
 
 ---
 
@@ -43,7 +39,7 @@ I’m proficient with these technologies:
 
 Here’s how active I’ve been on GitHub:
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Saiakshith63&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 
 ---
 
@@ -55,7 +51,7 @@ Here are some of my featured projects:
 2. **[Project 2 Name](Link-to-Project-Repo)** - A description with a focus on its value, impact, or unique feature.
 3. **[Project 3 Name](Link-to-Project-Repo)** - Key achievements or challenges overcome during the development of this project.
 
-Check out all my projects on [GitHub](https://github.com/Saiakshith63).
+Check out all my projects on [GitHub](https://github.com/your-username).
 
 ---
 
