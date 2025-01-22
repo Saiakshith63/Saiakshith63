@@ -2,7 +2,7 @@
   <h1>Hello I'm Saiakshith</h1>
 </div>
 
-<div ># 💫 About Me: </div>
+# About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
