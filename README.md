@@ -1,5 +1,15 @@
-<div align='center'># 💫 About Me: </div>
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
+  <h1>💫 About Me</h1>
+</div>
+
+<div align="center">
+  🔭 I’m currently working on<br>
+  👯 I’m looking to collaborate on<br>
+  🤝 I’m looking for help with<br>
+  🌱 I’m currently learning<br>
+  💬 Ask me about<br>
+  ⚡ Fun fact
+</div>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
