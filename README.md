@@ -1,99 +1,73 @@
-# 👋 Hi, I'm Captain Giggles!
+<div align="center">
+  <h1 align="center">Hi there 👋</h1>
+  <p align="center">
+    I'm a passionate software engineer with a focus on [**Your Focus Area, e.g., Full-Stack Development, AI/ML, Cloud Computing**]. 
+    <br>I'm always eager to learn and build amazing things. 
+  </p>
 
-## About Me
-I'm a passionate and driven **Software Developer** with a focus on **AI, Machine Learning, Data Science**, and **Web Development**. I’ve completed a **B.Tech in Computer Science** and specialize in **Python**, **NLP**, and **Web Technologies**. I’m exploring **Large Language Models (LLMs)** and **Deep Learning** to stay ahead in AI. 
+  <p align="center">
+    <a href="https://github.com/[Your-Username]/contributions">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[Your-Username]&theme=tokyonight" alt="WakaTime Stats" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
 
-I believe in solving real-world problems with creative solutions and always stay curious to learn and grow.
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=pie&langs_count=8&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=pie&langs_count=8&theme=tokyonight" alt="Top Languages" />
+    </a>
+  </p>
 
----
+  <p align="center">
+    <a href="https://[Your-Website-or-Portfolio-Link]">
+      <img src="https://[Your-Profile-Picture-URL]" alt="Your Profile Picture" width="150px" style="border-radius: 50%;">
+    </a>
+  </p>
+</div>
 
-## 🔧 Tech Stack
+**About Me**
 
-I’m proficient with these technologies:
+* **Skills:**
+    * **Languages:** [List Languages, e.g., Python, JavaScript, TypeScript, Java, C++, Go]
+    * **Frameworks/Libraries:** [List Frameworks/Libraries, e.g., React, Angular, Vue, Node.js, Django, Flask, TensorFlow, PyTorch]
+    * **Tools:** [List Tools, e.g., Git, Docker, Kubernetes, AWS, Azure, GCP]
+    * **Databases:** [List Databases, e.g., SQL, NoSQL, MongoDB, PostgreSQL, MySQL]
+* **Interests:** [List Interests, e.g., Open Source, AI/ML, Blockchain, Game Development, Cybersecurity]
+* **Goals:** [List Career Goals, e.g., Contribute to cutting-edge projects, Build innovative solutions, Learn and grow continuously]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=flat&logo=pandas&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=flat&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Featured Projects**
 
-**Other Tools I Work With**:
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+* **[Project 1 Name]:** [Short, impactful description of Project 1] - [Link to Project 1 repository]
+    * [Highlight key features or technologies used, e.g., "A React-based e-commerce application using GraphQL and a microservices architecture."]
+* **[Project 2 Name]:** [Short, impactful description of Project 2] - [Link to Project 2 repository]
+    * [Highlight key features or technologies used, e.g., "A machine learning model for predicting stock prices using TensorFlow and Python."]
 
----
+**Connect with Me**
 
-## 📊 GitHub Stats
+* **[Your Website/Portfolio Link]**
+* **[Your LinkedIn Profile Link]**
+* **[Your Twitter Profile Link (Optional)]**
+* **[Your Email Address (Optional)]**
 
-![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+**Contributions**
 
----
+I'm always open to collaborating on interesting projects and learning from others. Feel free to reach out if you have any questions or want to discuss potential collaborations.
 
-## 🏆 GitHub Trophies
+**Note:**
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
+* **Replace the placeholders** (e.g., `[Your-Username]`, `[Your-Website-or-Portfolio-Link]`, `[Your-Profile-Picture-URL]`) with your actual information.
+* **Customize the theme** (`tokyonight`) and other options in the `github-readme-stats` URLs to match your preferences.
+* **Add or remove sections** (e.g., "Achievements," "Certifications," "Blog Posts") as needed.
+* **Use a professional profile picture.**
+* **Consider adding a custom banner image** at the top of your README for a more personalized touch.
+* **Keep your README updated** with your latest projects and accomplishments.
 
----
+This README now includes:
 
-## 📅 GitHub Contributions
+- **GitHub Stats Card:** Displays your GitHub contributions (commits, pull requests, stars, etc.).
+- **Top Languages Card:** Shows a pie chart of your top programming languages used on GitHub.
+- **WakaTime Stats Card:** (Optional) Displays your coding activity based on WakaTime data (if you use WakaTime).
 
-Here’s how active I’ve been on GitHub:
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
----
-
-## 💻 Projects
-
-Here are some of my featured projects:
-
-1. **[Project 1 Name](Link-to-Project-Repo)** - A brief description of what this project is about and the technologies used.
-2. **[Project 2 Name](Link-to-Project-Repo)** - A description with a focus on its value, impact, or unique feature.
-3. **[Project 3 Name](Link-to-Project-Repo)** - Key achievements or challenges overcome during the development of this project.
-
-Check out all my projects on [GitHub](https://github.com/your-username).
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out:
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
----
-
-## 📝 Blog & Articles
-
-Check out my thoughts and insights on:
-
-- [Blog Article 1](Link-to-Article)
-- [Blog Article 2](Link-to-Article)
-- [Blog Article 3](Link-to-Article)
-
----
-
-## 🌱 Fun Fact
-
-Did you know? I love to combine **coding** with **creativity**. I’m always excited to explore new technologies and create projects that push boundaries. Let's connect and learn together!
-
----
-
-## ✨ Inspirational Quote
-
-> "The best way to predict the future is to invent it." – Alan Kay
-
----
-
-## 🎯 Currently Learning
-
-- **Large Language Models (LLMs)**
-- **Advanced Deep Learning Techniques**
-- **Natural Language Processing (NLP)**
+This enhanced template provides a more comprehensive and visually appealing overview of your GitHub profile and skills. Remember to customize it further to reflect your unique personality and accomplishments!
