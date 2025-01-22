@@ -25,13 +25,13 @@ I’m proficient with these technologies:
 
 ## 📊 GitHub Stats
 
-![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Captain Giggles' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiakshith63&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&row=1&column=3)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Saiakshith63e&theme=dark&row=1&column=3)
 
 ---
 
